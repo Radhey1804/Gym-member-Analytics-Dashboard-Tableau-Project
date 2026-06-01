@@ -1,4 +1,3 @@
-# Gym-member-Analytics-Dashboard-Tableau-Project
 # Gym Member Analytics Dashboard
 
 An interactive Tableau dashboard designed to analyze gym member demographics, fitness performance, and workout behavior. The dashboard tracks key health and fitness KPIs including average age, average height, average calories burned, and average session duration.
